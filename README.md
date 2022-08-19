@@ -1,5 +1,5 @@
 # BrickHost
-<img src="https://www.brickuniverses.com/banner.png"></img>
+<img src="https://www.brickuniverses.com/banner.png" style="width:20%"></img>
 <br>
 Use this template to assist you in hosting BrickPlay servers on BrickUniverses.
 
