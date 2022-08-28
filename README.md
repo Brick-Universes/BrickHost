@@ -1,5 +1,5 @@
 # BrickHost
-<img src="https://www.bloxina.com/banner.png" style="width:20%"></img>
+<img src="https://www.bloxina.com/images/icon.png" style="width:20%"></img>
 <br>
 Use this template to assist you in hosting BrickPlay servers on Bloxina.
 
