@@ -1,5 +1,5 @@
 # BrickHost
-<img src="https://www.bloxworld.xyz/images/icon.png" style="width:20%"></img>
+<img src="https://www.bloxworld.xyz/icon.png" style="width:20%"></img>
 <br>
 Use this template to assist you in hosting BrickPlay servers on Bloxworld.
 
