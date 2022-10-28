@@ -1,9 +1,9 @@
-const buserver = require('buhost')
+const buserver = require('buhost2')
 
 buserver.startServer({
     hostKey: "key",
 
-    gameId: 41755,
+    gameId: 8,
 
     port: 51815,
 

@@ -9,6 +9,6 @@
   "author": "AusAvia",
   "license": "ISC",
   "dependencies": {
-    "buhost": "^12.2.12"
+    "buhost2": "^12.2.12"
   }
 }
